@@ -1,0 +1,30 @@
+LLaMA 3.1:8B:
+Common Crawl
+Wikipedia
+Books (Gutenberg, Books3)
+ArXiv
+StackExchange
+GitHub (filtered)
+Project Gutenberg
+
+Mistral 7B: mix of filtered web data, books, StackExchange, and code
+StackExchange dump
+ArXiv (via Kaggle or ar5iv.org)
+Wikipedia
+
+Gemma 3B: Trained on web documents from C4, Wikipedia, CC-News, Books, and code
+C4 (Colossal Clean Crawled Corpus)
+Wikipedia dumps
+BookCorpus (public domain books)
+
+Steps in current PAN2014 Algorithm:
+(1) text-preprocessing (lower-casing all characters, tokenizing, and stemming); 
+(2) obfuscation type identifcation (verbatim/random/translation/summary obfuscation); 
+(3) seeding (deconstructing long passages into smaller segments and fnding candidate pairs through sentence-level similarity measurement given two documents); 
+(4) extension (forminglarger text fragments that are similar via clustering); 
+(5) fltering (removing overlapping and short plagiarized fragments). 
+
+In summary, they transform the suspicious and source sentences as
+term frequency–inverse document frequency vector weights and
+then calculate the similarity between the sentence pairs using the
+dice coefcient and cosine measure.

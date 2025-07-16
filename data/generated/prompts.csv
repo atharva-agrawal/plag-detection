@@ -1,0 +1,51 @@
+prompt_id,category,text
+p001,Science,What is the theory of relativity?
+p002,Science,Explain the difference between mass and weight.
+p003,Science,How does photosynthesis work?
+p004,Science,What is quantum mechanics in simple terms?
+p005,Science,What causes climate change?
+p006,Science,How are black holes formed?
+p007,Science,Explain Newton’s laws of motion.
+p008,Science,What is the structure of an atom?
+p009,Science,How does evolution work?
+p010,Science,What is the Big Bang theory?
+p011,Health,What are the symptoms of diabetes?
+p012,Health,How does the immune system work?
+p013,Health,What is depression and how is it treated?
+p014,Health,What is the difference between a virus and bacteria?
+p015,Health,How do vaccines work?
+p016,Health,What are the side effects of paracetamol?
+p017,Health,What is BMI and how is it calculated?
+p018,Health,How does the human brain process emotions?
+p019,Health,What are the benefits of regular exercise?
+p020,Health,What is mental health and why is it important?
+p021,Law,What is the difference between civil and criminal law?
+p022,Law,What are human rights?
+p023,Law,What is a contract and what makes it legally binding?
+p024,Law,What does the term “beyond a reasonable doubt” mean?
+p025,Law,What is intellectual property?
+p026,Law,What is the Indian Penal Code (IPC)?
+p027,Law,What is the role of a judge in a trial?
+p028,Law,What is bail and how is it granted?
+p029,Law,What are constitutional rights?
+p030,Law,What is freedom of speech under the law?
+p031,General,Who is the President of the United States?
+p032,General,What is the capital of France?
+p033,General,How many continents are there in the world?
+p034,General,What is the longest river in the world?
+p035,General,What is the national animal of India?
+p036,General,What causes rainbows?
+p037,General,What is the difference between weather and climate?
+p038,General,What is the history of the Olympic Games?
+p039,General,What is the importance of education?
+p040,General,How are elections conducted in a democracy?
+p041,Tech,What is artificial intelligence?
+p042,Tech,What is machine learning and how does it work?
+p043,Tech,What is the difference between AI and human intelligence?
+p044,Tech,What are neural networks?
+p045,Tech,How does ChatGPT work?
+p046,Tech,What is blockchain technology?
+p047,Tech,What is the Internet of Things (IoT)?
+p048,Tech,What is deep learning?
+p049,Tech,How does facial recognition work?
+p050,Tech,What is natural language processing?
