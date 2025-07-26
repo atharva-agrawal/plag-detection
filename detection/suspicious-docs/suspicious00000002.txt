@@ -1,0 +1,24 @@
+One of the most common misunderstandings in physics!
+
+Mass and weight are two related but distinct concepts that are often confused with each other.
+
+**Mass:**
+
+Mass is a measure of the amount of matter in an object. It is a fundamental property of an object that depends only on its composition, not on its location or state of motion. In other words, mass is a measure of how much "stuff" is in an object. The unit of mass is typically measured in kilograms (kg).
+
+Think of it this way: if you have a bag of potatoes, the mass of the bag is determined by how many potatoes are inside, not by where it's located or whether it's moving.
+
+**Weight:**
+
+Weight, on the other hand, is a measure of the force exerted on an object by gravity. It depends on both the mass of the object and the strength of the gravitational field it's in. In other words, weight is the pull of gravity on an object, which causes it to accelerate towards the center of the Earth.
+
+The unit of weight is typically measured in newtons (N), but it can also be expressed in pounds-force (lbf) or kilograms-force (kgf).
+
+Here's the key difference: if you were to place a bag of potatoes on the Moon, its mass would remain the same as on Earth, but its weight would be much less due to the weaker gravitational field on the Moon.
+
+To illustrate this further:
+
+* A 10 kg bag of potatoes has the same mass on Earth and on the Moon.
+* However, on the Moon, the same bag of potatoes would weigh only about 1/6th as much as it does on Earth because the Moon's gravity is weaker.
+
+In summary: mass measures the amount of matter in an object, while weight measures the force exerted by gravity on that object.

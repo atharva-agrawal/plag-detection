@@ -1,0 +1,27 @@
+BMI, or Body Mass Index, is a widely used measurement to assess an individual's weight status. It's calculated by dividing the person's weight (in kilograms) by their height (in meters) squared.
+
+The formula for calculating BMI is:
+
+**BMI = Weight (in kg) / Height (in m)²**
+
+For example, let's say you weigh 70 kg and are 1.7 meters tall. Your BMI would be calculated as follows:
+
+**BMI = 70 kg / (1.7 m)²**
+= 70 kg / 2.89 m²
+≈ 24.2
+
+The World Health Organization (WHO) classifies BMI into several categories, which are used to assess the individual's weight status:
+
+* **Underweight**: BMI < 18.5
+* **Normal weight**: BMI = 18.5-24.9
+* **Overweight**: BMI = 25-29.9
+* **Obese**: BMI ≥ 30
+
+The BMI categories are not always accurate for everyone, as they don't take into account muscle mass, body composition, or other factors that can affect an individual's health. However, it remains a useful tool for healthcare professionals to assess weight status and provide guidance on healthy weight management.
+
+It's worth noting that there are some limitations to using BMI:
+
+1. **Does not distinguish between lean and fat mass**: A person with a high amount of muscle mass may have a high BMI without being overweight.
+2. **May not be accurate for people of non-European descent**: The WHO BMI categories were developed based on data from European populations, which may not reflect the body shapes and compositions of other ethnic groups.
+
+Overall, while BMI has its limitations, it can still serve as a useful indicator of weight status in conjunction with other health metrics.

@@ -1,0 +1,18 @@
+Weather and climate are two related but distinct concepts in meteorology.
+
+**Weather** refers to the short-term atmospheric conditions at a specific place and time, including temperature, humidity, cloudiness, wind speed, and precipitation. Weather is what you experience on a daily basis, such as sunny or rainy days, high or low temperatures, foggy mornings, or windy afternoons. Weather is often characterized by its variability over short periods of time (hours, days, weeks).
+
+**Climate**, on the other hand, refers to the long-term average atmospheric conditions in a particular region, including temperature, humidity, wind patterns, and precipitation. Climate is what you might expect to experience on average over an extended period of time, such as months or years. Climate is often characterized by its relative stability over longer periods.
+
+To illustrate the difference:
+
+* **Weather**: "It's sunny today" (short-term condition)
+* **Climate**: "This region has a Mediterranean climate with mild winters and hot summers" (long-term average condition)
+
+Key differences between weather and climate:
+
+1. **Time scale**: Weather refers to short-term conditions, while climate describes long-term averages.
+2. **Variability**: Weather is more variable and unpredictable, while climate is relatively stable over time.
+3. **Regional characterization**: Climate is often used to describe the characteristics of a particular region or area.
+
+In summary, weather is what's happening now, while climate is what's likely to happen over an extended period in a given location.
